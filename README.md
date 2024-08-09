@@ -1,4 +1,7 @@
 # Make Own DemonList
+
+## Also put credits to aredl and tsl (there is some nonproven info that redlime is one of creators of list)
+
 So i highly recommend downloading new versions of aredl's demonlists "https://github.com/All-Rated-Extreme-Demon-List/AREDL" and updating your demonlist by yourself. but this is just simple way to easily copy aredl's demonlist src. (so you can spend time editing it fast)
 Ah before it starts check this https://discord.com/channels/1087797698771566644/1268510011009536041
 Also delete the file tutorial.txt in data
